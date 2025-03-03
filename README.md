@@ -1,4 +1,4 @@
-# Support Agent Chatbot for CDP "How-to" Questions
+# Support Agent Chatbot for CDP How-to Questions
 
 A chatbot designed to assist users with common "How-to" questions related to a Customer Data Platform (CDP). It offers quick, relevant answers and continuously improves by learning from new data.
 
